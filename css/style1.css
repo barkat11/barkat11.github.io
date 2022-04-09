@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul li{
+	background-color: orange;
+	padding: 15px 25px;
+	color: #fff;
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+h1{
+	font-family: lori, serif;
+	font-size: 50px;
+	font-weight: bold;
+	margin-left: 5%;
+	color: #2572da;
+}
+p{
+	margin-left: 5%;
+	font-family: lori, serif;
+	font-size: 20px;
+}
+
+.content{
+	margin-left: 10%;
+	margin-right: 10%;
+	
+}
+.content p{
+	font-family: lori, serif;
+	font-size: 20px;
+	text-decoration: none;
+	text-align:justify;	
+}
